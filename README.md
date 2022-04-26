@@ -7,13 +7,13 @@
 - [Github](https://github.com/zhangmrit/xizhi-cloud)
 - [Gitee](https://gitee.com/zhangmrit/xizhi-cloud)
 
-#### 友情链接 [若依/xizhi-Cloud](https://gitee.com/y_project/xizhi-Cloud) Element UI版本。
+#### 友情链接 [xizhi-Cloud](https://gitee.com/y_project/xizhi-Cloud) Element UI版本。
 #### 分支说明
 
 - **master** spring原生方式，使用eureka做注册中心和spring config做配置中心
 - **nacos** 集成spring-cloud-alibaba 使用nacos做注册中心和配置中心
 
-本项目FORK自  [若依/xizhi](https://gitee.com/y_project/xizhi)
+本项目FORK自  [xizhi](https://gitee.com/y_project/xizhi)
 
 蓝本是[zhangmrit/xizhi](https://gitee.com/zhangmrit/xizhi)
 
@@ -87,7 +87,7 @@ monitor使用springadmin完成,目前只是最简单的用法,[详戳](http://do
 QQ群：  [![加入QQ群](https://img.shields.io/badge/755109875-blue.svg)](https://jq.qq.com/?_wv=1027&k=5JGXHPD)  点击按钮入群。
 
 ### 鸣谢
-- [若依](https://gitee.com/y_project/xizhi) 开源框架，以及演示服务器提供
+- (https://gitee.com/y_project/xizhi) 开源框架，以及演示服务器提供
 - [antdv-pro](https://github.com/vueComponent/ant-design-vue-pro) 前端集成框架
 - [AJ-Captcha](https://gitee.com/anji-plus/captcha) 滑动验证码
 
